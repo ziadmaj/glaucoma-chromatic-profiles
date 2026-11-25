@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+scikit-learn
+opencv-python
+# only for segment_hygd.py (REFUGE U-Net experiments):
+# torch
